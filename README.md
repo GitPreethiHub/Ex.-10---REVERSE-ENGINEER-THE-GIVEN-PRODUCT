@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![image](https://github.com/GitPreethiHub/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475585/04dec2a8-c1b2-48be-910f-c4fec2ac42f9)
 ### Output:
+![image](https://github.com/GitPreethiHub/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475585/b0c08023-90a9-4e55-a890-c38f4fc8defb)
+![image](https://github.com/GitPreethiHub/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475585/cefaa101-c819-4026-9e08-cf16682bf53b)
 
-
-### Name:
-### Register Number:
+### Name: Preethi M
+### Register Number: 2122222100037
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
